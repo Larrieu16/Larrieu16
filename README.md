@@ -6,6 +6,12 @@ Hi! I'm Luisa Larrieu, a 19-year-old software developer passionate about technol
 
 ---
 
+### 🏅 Badges
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/1cbb62a9-e10a-412b-8d09-43b3e83cfc9e/public_url)
+
+---
+
 ### 🤖 Languages and Technologies
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
@@ -40,11 +46,4 @@ Hi! I'm Luisa Larrieu, a 19-year-old software developer passionate about technol
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larrieu16&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
-
-
----
-
-### 🏅 Badges
-
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/1cbb62a9-e10a-412b-8d09-43b3e83cfc9e/public_url)
 
