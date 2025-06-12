@@ -3,7 +3,6 @@
 **`FullStack Developer`**
 
 Hi! I'm Luisa Larrieu, a 19-year-old software developer passionate about technology, learning, and creating meaningful solutions.
-I have the Cloud Practitioner certificate.
 
 ---
 
@@ -41,3 +40,10 @@ I have the Cloud Practitioner certificate.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larrieu16&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
+
+---
+
+### 🏅 Badges
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/1cbb62a9-e10a-412b-8d09-43b3e83cfc9e/public_url)
+
